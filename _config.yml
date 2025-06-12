@@ -1,6 +1,17 @@
-url: 'https://maliaulfa2.github.io/'
+title: Malia Ulfa
+email: mel.malia028@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    A Personal Blog By Malia Ulfa
 
-plugins: 
- - jekyll-feed
- - jekyll-sitemap
- - jekyll-seo-tag
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://maliaulfa2.github.io" # the base hostname & protocol for your site
+
+github_username: maliaulfa2
+
+collections:
+  students:
+    output: true
+    permalink: /students/:name/
+    title: Students
+    description: list of students in the class.
