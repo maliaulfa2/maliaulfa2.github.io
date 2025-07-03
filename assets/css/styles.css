@@ -76,7 +76,7 @@ nav li a:hover:not(.active) {
   height: 150px;
   border-radius: 50%;
   margin: 24px auto;
-  background-color: #f30606;
+  background-color: #fae3eee5;
 }
 
 .active {

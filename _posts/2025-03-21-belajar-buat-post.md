@@ -3,4 +3,4 @@ layout: post
 title: Belajar Buat Post
 ---
 
-# belajar buat post
+belajar buat post
