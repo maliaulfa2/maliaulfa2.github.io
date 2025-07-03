@@ -11,6 +11,7 @@ JavaScript (JS) adalah bahasa pemrograman yang digunakan untuk membuat halaman w
 JavaScript (JS) adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif, seperti menangani klik tombol, validasi formulir, animasi, dan lain-lain.
 
 fungsi dasar javascript:
+
 - altert() : menampilkan pop-up peringatan
 - console.log() : menampilkan log di konsol browser
 - getElementById() : mengakses elemen HTML berdasarkan ID
@@ -22,6 +23,7 @@ fungsi dasar javascript:
 Config YML / YAML (YAML Ain’t Markup Language) adalah format konfigurasi berbasis teks yang digunakan untuk menyimpan data secara terstruktur, sering dipakai dalam DevOps, CI/CD (seperti GitHub Actions), Docker Compose, dan framework web.
 
 ciri-ciri:
+
 - struktur berbasis indentasi (spasi, bukan tab!)
 - mudah dibaca manusia
 - ekstensi file: .yml atau .yaml
@@ -33,6 +35,7 @@ ciri-ciri:
 
 
 Kesimpulan:
+
     Gunakan JavaScript untuk membuat interaksi pengguna di halaman web.
 
     Gunakan YAML untuk menyimpan konfigurasi sistem atau pipeline deployment.
