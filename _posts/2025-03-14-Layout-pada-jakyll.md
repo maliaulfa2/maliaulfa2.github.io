@@ -11,13 +11,13 @@ Layout di Jekyll adalah template HTML yang digunakan untuk membungkus konten dar
 
 2. MENGGUNAKAN LAYOUT DI POSTINGAN
     File Markdown di folder _posts/ wajib punya front matter, dan kamu bisa tentukan layout-nya
-        ---
+        '''---
         layout: post
         title: "Belajar Jekyll"
         date: 2025-07-03
         ---
 
-        Ini isi konten blog saya.
+        Ini isi konten blog saya.'''
     Berarti, kontennya akan dibungkus oleh layouts/post.html.
 
 3. MENGGUNAKAN LAYOUT DI HALAMAN (PAGE)
